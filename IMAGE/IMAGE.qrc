@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/IMAGE">
+        <file>Resources/AMOLED.qss</file>
+    </qresource>
+</RCC>
